@@ -1,6 +1,6 @@
 build:
   version: "V1 prod"
-accounts:
+cards:
   message: "Welcome to EazyBank accounts related local APIs in prod profile"
   contactDetails:
     name: "John Doe - Developer"
