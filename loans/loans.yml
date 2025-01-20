@@ -1,6 +1,6 @@
 build:
   version: "V1 default"
-accounts:
+loans:
   message: "Welcome to EazyBank loans related local APIs in default profile"
   contactDetails:
     name: "John Doe - Developer"
