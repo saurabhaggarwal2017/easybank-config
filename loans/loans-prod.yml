@@ -1,9 +1,9 @@
 build:
-  version: "V1 prod profile"
+  version: "V1 prod"
 loans:
   message: "Welcome to EazyBank loans related local APIs in prod profile"
   contactDetails:
-    name: "saurabh - Developer"
+    name: "john - Developer"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
