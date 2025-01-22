@@ -1,5 +1,5 @@
 build:
-  version: "V1 default profile"
+  version: "V1 default"
 loans:
   message: "Welcome to EazyBank loans related local APIs in default profile"
   contactDetails:
