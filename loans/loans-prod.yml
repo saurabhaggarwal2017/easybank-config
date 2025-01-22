@@ -1,5 +1,5 @@
 build:
-  version: "V1 prod"
+  version: "V1 prod profile"
 loans:
   message: "Welcome to EazyBank loans related local APIs in prod profile"
   contactDetails:
