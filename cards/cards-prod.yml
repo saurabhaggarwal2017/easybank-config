@@ -1,5 +1,5 @@
 build:
-  version: "V1 prod"
+  version: "V1 prod profile"
 cards:
   message: "Welcome to EazyBank cards related local APIs in prod profile"
   contactDetails:
