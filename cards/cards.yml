@@ -1,5 +1,5 @@
 build:
-  version: "V1 default"
+  version: "V1 default profiles"
 accounts:
   message: "Welcome to EazyBank cards related local APIs in default profile"
   contactDetails:
