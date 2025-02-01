@@ -1,6 +1,7 @@
 build:
-  version: "V1 default profile"
-accounts:
+  version: "V1 default profile please try other apis"
+
+cards:
   message: "Welcome to EazyBank cards related local APIs in default profile"
   contactDetails:
     name: "John Doe - Developer"
