@@ -1,9 +1,9 @@
 build:
-  version: "V1 default profile-active please check other apis."
+  version: "V1 default profile-active"
 accounts:
   message: "Welcome to EazyBank accounts related local APIs in default profile"
   contactDetails:
-    name: "saurabh - Developer"
+    name: "John - Developer"
     email: "{cipher}fcea22a7fe76b60290d1b921b49c28e799ede434d40ae49c0a5558adaf1c584155874230d776bc470575e2a9a0f8ddff"
   onCallSupport:
     - (555) 555-1234
