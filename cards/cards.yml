@@ -1,10 +1,10 @@
 build:
-  version: "V1 default profile please try other apis"
+  version: "V1 default profile please try other api"
 
 cards:
   message: "Welcome to EazyBank cards related local APIs in default profile"
   contactDetails:
-    name: "John Doe - Developer"
+    name: "saurabh- Developer"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
